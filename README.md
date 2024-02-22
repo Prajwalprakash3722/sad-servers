@@ -1,3 +1,3 @@
-#SadServers
+# SadServers
 
-This repo contains my solutions to [sadservers](sadservers.com)
+This repo contains my solutions to [sadservers](https://sadservers.com)
